@@ -3,8 +3,8 @@
 // Database Constants
     define("DB_SERVER", "pendragon.gannon.edu");
     define("DB_SERVER_LOCAL", "localhost");
-    define("DB_USER", "root");
-    define("DB_PASS", "7029");
+    define("DB_USER", "srms");
+    define("DB_PASS", "Id#7029");
     define("DB_NAME", "srms");
 
 function dbConnect($usertype, $connectionType = 'mysqli') {
