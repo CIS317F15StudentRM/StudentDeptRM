@@ -10,7 +10,7 @@ $error ="";
 <?php 
 if(isset($_POST['submit'])){
 	 $dbc = dbConnect('local');
-	// print_r($_POST);
+	// print_r($_POST); b
 	 $values['ID #']= $_POST['studentid']; 
     $values['Last']= $_POST['lname'];
     $values['First']= $_POST['fname'];
