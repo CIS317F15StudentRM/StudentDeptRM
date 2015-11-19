@@ -19,7 +19,7 @@ $details = advisor_details($_SESSION['login_user']);
       <br>
     </div>
     <!-- End add_student div -->
-    <h1> USER DETAILS </h1>
+    <h1> USER DETAILS - SUCKKAA </h1>
     <div class="main">
       <form class="form" method="post" action="change_password.php">
         <table class="center simpletable design-table design-table-horizontal design-table-highlight center">
