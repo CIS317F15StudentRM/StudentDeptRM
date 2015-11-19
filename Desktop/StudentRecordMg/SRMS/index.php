@@ -18,6 +18,7 @@ include('login.php');
       <h1> Login </h1>
     </div>
     <!-- End login_title div -->
+	<!-- some lame comment -->
     <div class="main">
       <form class="form" method="post" action="index.php">
         <table class="center simpletable">
